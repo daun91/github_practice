@@ -1,5 +1,0 @@
-{
-    'name': 'dog',
-    'color': 'brown',
-    'size': '6.6'
-}
