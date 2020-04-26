@@ -1,5 +1,4 @@
 {
     'name': 'meow',
     'color': 'black',
-    'size': '5.8'
 }
